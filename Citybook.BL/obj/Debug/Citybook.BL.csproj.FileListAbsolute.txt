@@ -1,0 +1,14 @@
+C:\Users\30190654\citybook\Citybook\Citybook.BL\obj\Debug\Citybook.BL.csprojResolveAssemblyReference.cache
+C:\Users\30190654\citybook\Citybook\Citybook.BL\bin\Debug\Citybook.BL.dll
+C:\Users\30190654\citybook\Citybook\Citybook.BL\bin\Debug\Citybook.BL.pdb
+C:\Users\30190654\citybook\Citybook\Citybook.BL\bin\Debug\Citybook.Common.dll
+C:\Users\30190654\citybook\Citybook\Citybook.BL\bin\Debug\Citybook.Repository.dll
+C:\Users\30190654\citybook\Citybook\Citybook.BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\30190654\citybook\Citybook\Citybook.BL\bin\Debug\Citybook.Common.pdb
+C:\Users\30190654\citybook\Citybook\Citybook.BL\bin\Debug\Citybook.Repository.pdb
+C:\Users\30190654\citybook\Citybook\Citybook.BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\30190654\citybook\Citybook\Citybook.BL\obj\Debug\Citybook.BL.dll
+C:\Users\30190654\citybook\Citybook\Citybook.BL\obj\Debug\Citybook.BL.pdb
+C:\Users\30190654\citybook\Citybook\Citybook.BL\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\30190654\citybook\Citybook\Citybook.BL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\30190654\citybook\Citybook\Citybook.BL\bin\Debug\GemBox.Spreadsheet.xml

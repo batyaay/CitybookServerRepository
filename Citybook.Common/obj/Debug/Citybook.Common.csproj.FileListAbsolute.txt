@@ -1,0 +1,5 @@
+C:\Users\30190654\citybook\Citybook\Citybook.Common\bin\Debug\Citybook.Common.dll
+C:\Users\30190654\citybook\Citybook\Citybook.Common\bin\Debug\Citybook.Common.pdb
+C:\Users\30190654\citybook\Citybook\Citybook.Common\obj\Debug\Citybook.Common.dll
+C:\Users\30190654\citybook\Citybook\Citybook.Common\obj\Debug\Citybook.Common.pdb
+C:\Users\30190654\citybook\Citybook\Citybook.Common\obj\Debug\Citybook.Common.csprojResolveAssemblyReference.cache
